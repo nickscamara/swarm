@@ -98,6 +98,7 @@ Check out `/examples` for inspiration! Learn more about each one in its README.
 - [`airline`](examples/airline): A multi-agent setup for handling different customer service requests in an airline context.
 - [`support_bot`](examples/support_bot): A customer service bot which includes a user interface agent and a help center agent with several tools
 - [`personal_shopper`](examples/personal_shopper): A personal shopping agent that can help with making sales and refunding orders
+- [`marketing_strategy`](examples/marketing_strategy): A multi-agent setup for generating a marketing strategy for a specific website
 
 # Documentation
 
